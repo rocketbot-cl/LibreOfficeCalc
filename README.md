@@ -1,16 +1,5 @@
-# CloudStorage
-Module to upload files to Google Cloud Storage
-
-## Commands
-<ul class="commands_readme">
-    <li>Setup Google Cloud Storage credentials</li>
-    <li>Upload file</li>
-</ul>
-
-![alt text](https://i.imgur.com/ZTHiDk0.png)
-
-### Update
-- 09-03-2021: Add timeout.
+# LibreOffice Calc
+Module to work with LibreOffice Calc
 
 <h2>License</h2>
 
